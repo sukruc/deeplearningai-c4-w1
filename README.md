@@ -1,7 +1,7 @@
 This reposistory contains deeplearning.ai CNN course (course 04) week 1 homework notebooks.
 
-**These notebooks are only for reference and not guaranteed to be correct or optimal solutions.
-It is strongly suggested that reader should attempt to solve problems without copy/paste.**
+*These notebooks are only for reference and not guaranteed to be correct or optimal solutions.
+It is strongly suggested that reader should attempt to solve problems without copy/paste.*
 
 ### Contents:
 
@@ -14,6 +14,7 @@ It is strongly suggested that reader should attempt to solve problems without co
 2. Make sure to maintain directory structure as is to use notebooks without problems
 3. Enjoy.
 
-Q: Which notebook should I start working on?
+### Q-A
 
+Q: Which notebook should I start working on?  
 A: Start working from the copy of latest version of the notebook (i.e. Convolution-v3-copy.ipynb)
